@@ -1,6 +1,6 @@
 <img align="right" height="50" src="https://raw.githubusercontent.com/startxfr/livedraw/master/webapp/app/img/logo.svg?sanitize=true">
 
-# Live Draw - API
+# Live Draw - Web application
 
 Simple lightweight nodejs server serving simple static page for users.
 

@@ -12,7 +12,7 @@ Main contributors are :
 
 * **Startx dev** - [startxfr homepage](https://github.com/startxfr)
 * **Mallowtek** - [mallowtek's homepage](https://github.com/mallowtek)
-* **FKalb** - [Frank's homepage](https://github.com/fkalb)
+* **FKalb** - [Frank's homepage](https://github.com/startx-fk)
 
 ## License
 
