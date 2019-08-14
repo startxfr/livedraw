@@ -1,4 +1,4 @@
-<img align="right" height="50" src="https://raw.githubusercontent.com/startxfr/sxapi-core/dev/docs/assets/logo.svg?sanitize=true">
+<img align="right" height="50" src="https://raw.githubusercontent.com/startxfr/livedraw/master/webapp/app/img/logo.svg?sanitize=true">
 
 # Live Draw
 
