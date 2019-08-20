@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">Live Draw</string>
     <string name="action_settings">Settings</string>
+    <string name="title">Title</string>
+    <string name="subtitle">Subtitle</string>
+    <string name="trash">Trash</string>
 </resources>

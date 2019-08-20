@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Live Draw</string>
+    <string name="action_settings">Options</string>
+    <string name="subtitle">Sous-titre</string>
+    <string name="title">Titre</string>
+    <string name="trash">Corbeille</string>
+</resources>
